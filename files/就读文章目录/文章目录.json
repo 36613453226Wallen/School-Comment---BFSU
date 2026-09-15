@@ -1,6 +1,22 @@
 {
   "title": "就读文章目录",
-  "updated_at": "2026-09-15",
+  "updated_at": "2026-09-15 11:39 UTC",
   "trigger": "收录就读文章",
-  "records": []
+  "records": [
+    {
+      "id": 1,
+      "title": "考上北外啥感觉？外院香、校园土、回乡还是吹",
+      "docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹.docx",
+      "analysis_docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹.分维评注.docx",
+      "source_pdf": "../ZHIHU/2020-FireShot-考上北京外国语大学是什么感觉-MouradBey.pdf",
+      "source_url": "https://www.zhihu.com/question/64391382/answer/1335732679",
+      "published": "未知（截图只显示编辑时间）",
+      "edited": "2020-07-30 11:38（截图页脚）",
+      "snapshot": "2026-09-15 11:27 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "未写明",
+      "status": "已生成",
+      "notes": "作者 Mourad Bey。正文来自整页截图 OCR，未用知乎网页补造。具体语种/专业未写，仅谈到外院、王牌语种和出国路径。"
+    }
+  ]
 }
