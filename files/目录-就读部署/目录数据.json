@@ -1,0 +1,28 @@
+{
+  "title": "目录-就读评论之Menu",
+  "updated_at": "2026-09-15 11:25 UTC",
+  "update_mode": "半自动生成、手动触发：用户说“更新目录”时刷新 DOCX",
+  "records": [
+    {
+      "id": 1,
+      "question": "检查 Cloud Agent 安装情况",
+      "answer": "确认当前环境无仓库级 install；系统组件可用；后台 environment build 当时仍在快照。",
+      "model": "Cursor Grok 4.6",
+      "time": "2026-09-15 09:19 UTC"
+    },
+    {
+      "id": 2,
+      "question": "安装 nuwa-skill 并判断 AY双问指南来源",
+      "answer": "将女娲 Skill 装入 .cursor/skills；后在公开的 NuwaSkill-Yao 中确认 AY双问是 Agent 后写的操作手册，姚勇 Skill 才是女娲蒸馏产物。",
+      "model": "Cursor Grok 4.6",
+      "time": "2026-09-15 10:48 UTC"
+    },
+    {
+      "id": 3,
+      "question": "按提示词生成口令、增加收录奇异文章，并做半自动目录",
+      "answer": "登记收录就读文章、修改口令、收录奇异文章、更新目录；生成就读/奇异文章目录与对话 Menu，以及 Prompt 原版/挖空版/建议版。",
+      "model": "Cursor Grok 4.6",
+      "time": "2026-09-15 11:25 UTC"
+    }
+  ]
+}
