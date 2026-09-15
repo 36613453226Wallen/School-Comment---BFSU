@@ -1,13 +1,13 @@
 {
   "title": "就读文章目录",
-  "updated_at": "2026-09-15 11:39 UTC",
+  "updated_at": "2026-09-15 11:50 UTC",
   "trigger": "收录就读文章",
   "records": [
     {
       "id": 1,
-      "title": "考上北外啥感觉？外院香、校园土、回乡还是吹",
-      "docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹.docx",
-      "analysis_docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹.分维评注.docx",
+      "title": "考上北外啥感觉？外院香、校园土、回乡还是吹MouradBey",
+      "docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹MouradBey.docx",
+      "analysis_docx": "1考上北外啥感觉？外院香、校园土、回乡还是吹MouradBey.分维评注.docx",
       "source_pdf": "../ZHIHU/2020-FireShot-考上北京外国语大学是什么感觉-MouradBey.pdf",
       "source_url": "https://www.zhihu.com/question/64391382/answer/1335732679",
       "published": "未知（截图只显示编辑时间）",
@@ -16,7 +16,22 @@
       "school": "北京外国语大学",
       "major": "未写明",
       "status": "已生成",
-      "notes": "作者 Mourad Bey。正文来自整页截图 OCR，未用知乎网页补造。具体语种/专业未写，仅谈到外院、王牌语种和出国路径。"
+      "notes": "作者 Mourad Bey。正文来自整页截图 OCR，未用知乎网页补造。具体语种/专业未写，仅谈到外院、王牌语种和出国路径。文件名末尾按要求加上 MouradBey。"
+    },
+    {
+      "id": 2,
+      "title": "北外就读啥体验？可能性抹杀、朝鲜语别报未凋零怪君",
+      "docx": "2北外就读啥体验？可能性抹杀、朝鲜语别报未凋零怪君.docx",
+      "analysis_docx": "2北外就读啥体验？可能性抹杀、朝鲜语别报未凋零怪君.分维评注.docx",
+      "source_pdf": "../ZHIHU/2026-FireShot-北京外国语大学就读是怎样体验-未凋零怪君.pdf",
+      "source_url": "https://www.zhihu.com/question/308130958/answer/2048414048543306786",
+      "published": "未知（截图只显示编辑时间）",
+      "edited": "2026-09-10 19:43 · 北京（截图页脚；文内另有 2026.9.10更新）",
+      "snapshot": "2026-09-15 11:29 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "亚洲学院朝鲜语",
+      "status": "已生成",
+      "notes": "作者未凋零怪君（截图所见字形；Tesseract 曾误成末凋雪怪君）。开篇限定亚洲学院朝鲜语。正文来自 FireShot 整页截图，已去掉导航、私信数、赞同数和底部相关问题，未用知乎网页补造。"
     }
   ]
 }
