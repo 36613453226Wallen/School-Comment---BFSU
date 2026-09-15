@@ -1,6 +1,6 @@
 {
   "title": "就读文章目录",
-  "updated_at": "2026-09-15 22:45 UTC",
+  "updated_at": "2026-09-15 22:58 UTC",
   "trigger": "收录就读文章",
   "records": [
     {
@@ -62,6 +62,36 @@
       "major": "新闻与传播专业硕士（MJC）",
       "status": "已生成",
       "notes": "作者 7.3倍的C6H12O6。同页还有 DearAliciaaa 短答和广告，未并入本篇正文。知乎 URL 未随截图提供。合2 PDF 另把冰洁ice截图补为第 2 页。"
+    },
+    {
+      "id": 5,
+      "title": "俄语生本科-Whever1",
+      "docx": "5俄语生本科-Whever1.docx",
+      "analysis_docx": "5俄语生本科-Whever1.分维评注.docx",
+      "source_pdf": "../ZHIHU/俄语生本科-Whever1.pdf",
+      "source_url": "https://www.zhihu.com/question/64391382/answer/3331909814",
+      "published": "2023-12-20 08:41（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "2026-09-15 22:49 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "俄语（本科）",
+      "status": "已生成",
+      "notes": "作者 Whever。文件名按用户要求：只在原「-Whever1」前加「俄语生本科」，后段不动。正文一段，评论区未收入。与第 1 篇 Mourad Bey 同题不同答。"
+    },
+    {
+      "id": 6,
+      "title": "国关推荐-Whever2",
+      "docx": "6国关推荐-Whever2.docx",
+      "analysis_docx": "6国关推荐-Whever2.分维评注.docx",
+      "source_pdf": "../ZHIHU/国关推荐-Whever2.pdf",
+      "source_url": "https://www.zhihu.com/question/597450083/answer/3000551110",
+      "published": "2023-04-25 19:08（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "2026-09-15 22:50 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "俄语；回答里对比汉教、推荐国关",
+      "status": "已生成",
+      "notes": "作者 Whever。文件名按用户要求：只在原「-Whever2」前加「国关推荐」，后段不动。截图下半截另一条情感回答已剔除。"
     }
   ]
 }
