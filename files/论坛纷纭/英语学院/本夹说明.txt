@@ -1,0 +1,5 @@
+英语学院
+SEIS / School of English and International Studies
+取样 8 条
+层次：本科；本科（毕业后回看）；研究生部（英国研究复试回忆）；研究生部（英语语言文学·文学方向）；研究生部（英语语言文学学硕·上岸经验）
+每条一个 txt，另有 英语学院评论取样.docx 和 取样元数据.json。
