@@ -1,6 +1,6 @@
 {
   "title": "就读文章目录",
-  "updated_at": "2026-09-15 11:50 UTC",
+  "updated_at": "2026-09-16 02:05 UTC",
   "trigger": "收录就读文章",
   "records": [
     {
@@ -32,6 +32,81 @@
       "major": "亚洲学院朝鲜语",
       "status": "已生成",
       "notes": "作者未凋零怪君（截图所见字形；Tesseract 曾误成末凋雪怪君）。开篇限定亚洲学院朝鲜语。正文来自 FireShot 整页截图，已去掉导航、私信数、赞同数和底部相关问题，未用知乎网页补造。"
+    },
+    {
+      "id": 3,
+      "title": "北外中政MJC咋选？国新出名叫北外、走211选中政冰洁ice",
+      "docx": "3北外中政MJC咋选？国新出名叫北外、走211选中政冰洁ice.docx",
+      "analysis_docx": "3北外中政MJC咋选？国新出名叫北外、走211选中政冰洁ice.分维评注.docx",
+      "source_pdf": "../ZHIHU/2019-截图-北外和中政MJC哪个好-冰洁ice.pdf",
+      "source_url": "",
+      "published": "2019-05-04 09:46（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "用户 2026-09-15 补入的回答截图，无 FireShot 元数据",
+      "school": "北京外国语大学；中国政法大学",
+      "major": "新闻与传播专业硕士（MJC）",
+      "status": "已生成",
+      "notes": "作者冰洁ice。正文来自用户补入的回答截图，已去掉赞同条和评论入口。知乎 URL 未随截图提供，不补造。「今年是第二年开设 mjc」按发布年 2019 理解。"
+    },
+    {
+      "id": 4,
+      "title": "上岸北外MJC导师咋选？越早联系越不被动7.3倍的C6H12O6",
+      "docx": "4上岸北外MJC导师咋选？越早联系越不被动7.3倍的C6H12O6.docx",
+      "analysis_docx": "4上岸北外MJC导师咋选？越早联系越不被动7.3倍的C6H12O6.分维评注.docx",
+      "source_pdf": "../ZHIHU/2020-FireShot-上岸北外mjc导师选择-7.3倍的C6H12O6.pdf",
+      "source_url": "",
+      "published": "2020-05-29 10:35（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "2026-09-15 22:20 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "新闻与传播专业硕士（MJC）",
+      "status": "已生成",
+      "notes": "作者 7.3倍的C6H12O6。同页还有 DearAliciaaa 短答和广告，未并入本篇正文。知乎 URL 未随截图提供。合2 PDF 另把冰洁ice截图补为第 2 页。"
+    },
+    {
+      "id": 5,
+      "title": "俄语生本科-Whever1",
+      "docx": "5俄语生本科-Whever1.docx",
+      "analysis_docx": "5俄语生本科-Whever1.分维评注.docx",
+      "source_pdf": "../ZHIHU/俄语生本科-Whever1.pdf",
+      "source_url": "https://www.zhihu.com/question/64391382/answer/3331909814",
+      "published": "2023-12-20 08:41（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "2026-09-15 22:49 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "俄语（本科）",
+      "status": "已生成",
+      "notes": "作者 Whever。文件名按用户要求：只在原「-Whever1」前加「俄语生本科」，后段不动。正文一段，评论区未收入。与第 1 篇 Mourad Bey 同题不同答。"
+    },
+    {
+      "id": 6,
+      "title": "国关推荐-Whever2",
+      "docx": "6国关推荐-Whever2.docx",
+      "analysis_docx": "6国关推荐-Whever2.分维评注.docx",
+      "source_pdf": "../ZHIHU/国关推荐-Whever2.pdf",
+      "source_url": "https://www.zhihu.com/question/597450083/answer/3000551110",
+      "published": "2023-04-25 19:08（截图「发布于」）",
+      "edited": "未知（截图未显示编辑）",
+      "snapshot": "2026-09-15 22:50 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "俄语；回答里对比汉教、推荐国关",
+      "status": "已生成",
+      "notes": "作者 Whever。文件名按用户要求：只在原「-Whever2」前加「国关推荐」，后段不动。截图下半截另一条情感回答已剔除。"
+    },
+    {
+      "id": 7,
+      "title": "考上北外啥感觉？英语金饭碗、外事数字别神话成就你的梦想",
+      "docx": "7考上北外啥感觉？英语金饭碗、外事数字别神话成就你的梦想.docx",
+      "analysis_docx": "7考上北外啥感觉？英语金饭碗、外事数字别神话成就你的梦想.分维评注.docx",
+      "source_pdf": "../ZHIHU/2026-FireShot-考上北京外国语大学是什么感觉-成就你的梦想.pdf",
+      "source_url": "",
+      "published": "2026-01-28 08:38 · 湖北（截图「发布于」）",
+      "edited": "未知（截图未另标「编辑于」）",
+      "snapshot": "2026-09-16 01:45 UTC（FireShot 元数据）",
+      "school": "北京外国语大学",
+      "major": "英语（推销口径，作者未写自己的年级专业）",
+      "status": "已生成",
+      "notes": "作者成就你的梦想，签名为付费咨询。同题第 1、5 篇已有 Mourad Bey 与 Whever。正文来自 FireShot 整页截图，已去掉导航、私信数、⁺ 词条和送礼物。知乎 URL 未提供，不补造。"
     }
   ]
 }
